@@ -16,7 +16,7 @@
   <property name="styleSheet">
    <string notr="true">background-color: rgb(136, 138, 133);</string>
   </property>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="OkBtn">
    <property name="geometry">
     <rect>
      <x>20</x>
@@ -32,7 +32,7 @@
     <string>Ok</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_2">
+  <widget class="QPushButton" name="ExitBtn">
    <property name="geometry">
     <rect>
      <x>20</x>
@@ -48,7 +48,7 @@
     <string>Exit</string>
    </property>
   </widget>
-  <widget class="QRadioButton" name="rbtnStd">
+  <widget class="QRadioButton" name="rBtnStd">
    <property name="geometry">
     <rect>
      <x>20</x>
@@ -64,7 +64,7 @@
     <string>Standard</string>
    </property>
   </widget>
-  <widget class="QRadioButton" name="rbtnAdv">
+  <widget class="QRadioButton" name="rBtnAdv">
    <property name="geometry">
     <rect>
      <x>20</x>
